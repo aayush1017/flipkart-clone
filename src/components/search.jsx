@@ -22,7 +22,7 @@ const SearchBar = () => {
     return (
             <SearchContainer>
             <InputSearchBase
-              placeholder="Search for products, brands and more"/>
+              />
               <SearchIconWrapper>
                   <SearchIcon />
               </SearchIconWrapper>
